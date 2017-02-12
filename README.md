@@ -1,7 +1,7 @@
 # NativePayload_IP6DNS
 Published by Damon Mohammadbagher
 
-this tool works like NativePayload_DNS , but in this case this tool working by IPv6 Address and AAAA records for Transferring Backdoor payloads by DNS Traffic ;)
+this tool working like NativePayload_DNS , but in this case this tool working by IPv6 Address and AAAA records for Transferring Backdoor payloads by DNS Traffic ;)
 
 
 note : this code supported only 990 bytes (99 lines IPV6 ADDRESS foreach 10 bytes) for Payloads , for changing this value you should change source code
