@@ -65,5 +65,11 @@ note : in this case 192.168.1.113 is your FakeDNSServer also this is your Metasp
 
 you should have meterpreter session after 1 DNS Response from FakeDNSserver to Client (Backdoor system)
 
+Article : Transferring Backdoor Payloads by DNS AAAA records and IPv6 Address:
+
+link 0: https://www.linkedin.com/pulse/transferring-backdoor-payloads-dns-aaaa-records-ipv6-mohammadbagher
+
+link 1: https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
+
 
 
