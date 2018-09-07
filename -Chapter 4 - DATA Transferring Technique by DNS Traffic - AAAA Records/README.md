@@ -24,7 +24,7 @@ STEP 2 : after "AV Signature Database Updated" your Internet Connection should b
 
 STEP 3 : Now you can Copy and Paste your C# code to your Virtual Machine for test .
 
-# NativePayload_DNS2.sh help :
+# NativePayload_IP6DNS.sh help :
 
 Example A-Step1: (Server Side ) ./NativePayload_IP6DNS.sh -r
 
