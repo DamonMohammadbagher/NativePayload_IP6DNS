@@ -1,4 +1,6 @@
-Pictures for two sysntaxes :
+#Pictures for two sysntaxes :
+
+for more information about AAAA records you read Chapter 6 and for more information avout IPv6 PTR records you can read Chapter 7
 
 Example A-Step1: (Server Side ) ./NativePayload_IP6DNS.sh -r
 
