@@ -1,4 +1,4 @@
-#Pictures for two sysntaxes :
+# Pictures for two sysntaxes :
 
 for more information about AAAA records you read Chapter 6 and for more information avout IPv6 PTR records you can read Chapter 7
 
