@@ -12,7 +12,7 @@ Video 1 for chapter 6:
 
 Video 2 for chapter 6: https://www.youtube.com/watch?v=Ac651MbNJ_U
 
-
+Video 2 for chapter 7: https://www.youtube.com/watch?v=6Lj-2KkHqgA
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
