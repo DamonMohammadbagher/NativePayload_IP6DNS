@@ -8,9 +8,9 @@ eBook chapter 4 , PDF Download : https://github.com/DamonMohammadbagher/eBook-By
 
 Related Video : 
 
-Video 1 for chapter 6: 
-
 Video 2 for chapter 6: https://www.youtube.com/watch?v=Ac651MbNJ_U
+
+Video 1 for chapter 7: https://www.youtube.com/watch?v=9jiry5b-oPo
 
 Video 2 for chapter 7: https://www.youtube.com/watch?v=6Lj-2KkHqgA
 
