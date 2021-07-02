@@ -75,5 +75,5 @@ link 0: https://www.linkedin.com/pulse/transferring-backdoor-payloads-dns-aaaa-r
 
 link 1: https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
 
-
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_IP6DNS"/></a></p>
 
